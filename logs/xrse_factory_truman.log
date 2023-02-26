@@ -1,12 +1,12 @@
-* Detected CPU: AuthenticAMD , F15/M1/S0, 3596.00 mhz, 33-clk 'rdtsc'
+* Detected CPU: AuthenticAMD , F15/M1/S0, 3596.00 mhz, 35-clk 'rdtsc'
 * CPU Features: RDTSC, MMX, SSE, SSE2
 
 Initializing File System...
-$fs_root$ = X:\X-Ray SDK\level_editor
+$fs_root$ = C:\Users\Truman\Desktop\XRAY-SDK
 using fs-ltx fsfactory.ltx
-FS: 302 files cached, 122Kb memory used.
-Init FileSystem 0.003376 sec
+FS: 304 files cached, 122Kb memory used.
+Init FileSystem 0.004732 sec
 'xrCore' build 0, (null)
 
-CRT heap 0x03a60000
-Process heap 0x006e0000
+CRT heap 0x03c00000
+Process heap 0x00890000

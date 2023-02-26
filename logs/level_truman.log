@@ -19,7 +19,7 @@ Starting RENDER device...
 * DVB created: 2048K
 * DIB created: 2048K
 count of .thm files=0
-load time=4 ms
+load time=10 ms
 D3D: initialized
 Starting INPUT device...
 SOUND: OpenAL: enumerate devices...
@@ -38,9 +38,11 @@ Scene: initialized
 * DIB created: 2048K
 * GPU shading: vs(fffe0300/3.0/30), ps(ffff0300/3.0/30)
 * GPU vertex cache: unrecognized, 16
-*** RESET [19 ms]
+*** RESET [10 ms]
 * Loaded: gamedata\textures\ui\ui_font_hud_01.dds[16512]b
+* Loaded: gamedata\textures\det\det_listya.dds[349652]b
 Scene: cleared
+* Unloading texture [det\det_listya] pSurface RefCount= 1
 Input:  1
 Destroying Direct3D...
 * Unloading texture [ui\ui_font_hud_01] pSurface RefCount= 1

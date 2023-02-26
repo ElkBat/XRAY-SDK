@@ -1,0 +1,2 @@
+aiwrapper -s
+pause
