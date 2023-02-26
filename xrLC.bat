@@ -1,0 +1,1 @@
+@start bins\compiler\xrLC.exe -f %1

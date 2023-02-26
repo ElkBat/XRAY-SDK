@@ -1,0 +1,1 @@
+@start bins\compiler\xrDO_light.exe -f %1

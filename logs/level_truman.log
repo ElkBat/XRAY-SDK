@@ -1,0 +1,63 @@
+* Detected CPU: AuthenticAMD , F15/M1/S0, 3593.00 mhz, 34-clk 'rdtsc'
+* CPU Features: RDTSC, MMX, SSE, SSE2
+
+Initializing File System...
+'xrCore' build 0, (null)
+
+RegisterCommand: command '(null)' overridden by command '(null)'.
+* ImageLibrary version: 3.10.0
+* 26 supported formats
+Starting RENDER device...
+* GPU [vendor:1002]-[device:7340]: Radeon RX 5500 XT
+* GPU driver: 31.0.12044.3
+* CREATE: DeviceREF: 1
+* Vertex Processor: PURE HARDWARE
+*     Texture memory: 4094 M
+*          DDI-level: 9.0
+* GPU shading: vs(fffe0300/3.0/30), ps(ffff0300/3.0/30)
+* GPU vertex cache: unrecognized, 16
+* DVB created: 2048K
+* DIB created: 2048K
+count of .thm files=0
+load time=4 ms
+D3D: initialized
+Starting INPUT device...
+SOUND: OpenAL: enumerate devices...
+SOUND: OpenAL: EnumerationExtension Present
+devices Generic Software
+SOUND: OpenAL: system  default SndDevice name is Generic Software
+SOUND: OpenAL: All available devices:
+1. Generic Software, Spec Version 1.1 (default)
+SOUND: OpenAL: SelectBestDevice is Generic Software 1.1
+SOUND: OpenAL: Required device: Generic Software. Created device: Generic Software.
+* sound: EAX 2.0 extension: absent
+* sound: EAX 2.0 deferred: absent
+* sound : cache: 32773 kb, 3805 lines, 8820 bpl
+Scene: initialized
+* DVB created: 2048K
+* DIB created: 2048K
+* GPU shading: vs(fffe0300/3.0/30), ps(ffff0300/3.0/30)
+* GPU vertex cache: unrecognized, 16
+*** RESET [19 ms]
+* Loaded: gamedata\textures\ui\ui_font_hud_01.dds[16512]b
+Scene: cleared
+Input:  1
+Destroying Direct3D...
+* Unloading texture [ui\ui_font_hud_01] pSurface RefCount= 1
+* RM_Dump: textures  : 0
+* RM_Dump: rtargets  : 0
+* RM_Dump: rtargetsc : 0
+* RM_Dump: vs        : 0
+* RM_Dump: ps        : 0
+* RM_Dump: dcl       : 0
+* RM_Dump: states    : 0
+* RM_Dump: tex_list  : 0
+* RM_Dump: matrices  : 0
+* RM_Dump: lst_constants: 0
+* RM_Dump: v_passes  : 0
+* RM_Dump: v_elements: 0
+* RM_Dump: v_shaders : 0
+refCount:pBaseZB 1
+refCount:pBaseRT 1
+refCount:dwDebugSB 1
+D3D: device cleared

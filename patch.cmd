@@ -1,0 +1,1 @@
+start bins\patcher.exe LevelEditor.dif LevelEditor.exe
